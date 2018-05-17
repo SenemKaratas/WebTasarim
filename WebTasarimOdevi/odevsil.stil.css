@@ -1,0 +1,145 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:white;
+}
+.baslangıc{
+	background-color:#ffefdb;
+}
+#ust{
+	background-color:#ffdead;
+	margin:0;
+	padding:0;
+	height:60px;
+	text-align:center;
+}
+#ust p{
+	text-align:center;
+}
+#ust p font{
+	font-family:Freestyle Script;
+	font-size:30px;
+}
+.a{
+	border:0;
+	width:10px;
+	height:10px;
+	float:left;
+}
+.a img{
+	width:250px;
+	height:50px;
+}
+
+.arkaplan{
+	background-color:#ffdead;
+}
+
+.arkaplan h1 font{
+	font-family:Ravie;
+	font-size:36px;
+}
+h1{
+	text-indent:30px;
+	text-align:right;
+	margin:40px;	
+	vertical-align:bottom;
+	line-height:10px;
+	word-spacing:30px;
+	letter-spacing:20px;
+	text-shadow:2px 2px red;
+	white-space:normal;
+}
+
+#menu ul{
+	list-style-type:none;
+	color:white;
+	font-family:Arial, Sans-Serif;
+	font-weight:bold;
+	margin-left:320px;
+}
+#menu ul li{
+	float:left;
+	padding:20px;
+}
+#menu{
+	background-color:#ffdead;
+	width:100%;
+	height:60px;
+	margin:0 auto;
+}
+#menu ul li a{
+	text-decoration:none;
+	color:black;
+}
+
+#menu ul li a:hover{
+	color:red;
+}
+
+.ikon img{
+	width:25px;
+	height:25px;
+	float:center;
+}
+select{
+	margin:20px;
+	padding:0;
+    width:20%;
+    background-color:#b0e0e6;
+}
+
+.icerik{
+	float:left;
+}
+.icerik h6{
+	font-style:italic;
+}
+
+.tarih{
+	margin:20px;
+	color:black;
+	font-style:italic;
+}
+h4{
+	margin:20px;
+	font-style:italic;
+}
+
+img{
+	margin:20px;
+	width:400px;
+	height:300px;
+	float:left;
+}
+h6{
+	margin:20px;
+}
+p{
+	margin:20px;
+}
+.forum{
+	margin:20px;
+}
+.son img{
+	margin:10px;
+	padding:0;
+	float:right;
+	width:30px;
+	height:30px;
+	height:30px;
+	background-color:#ffefdb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
